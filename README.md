@@ -8,8 +8,7 @@ android相關知識點記錄
 
 [Android开发google推荐的性能优化tips，很实用](https://developer.android.com/training/articles/perf-tips.html)
 
-[DriodDeveloper 微信公众号文章，包含：个人android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐，TV开发]{https://github.com/hejunlin2013/DriodDeveloper}
-
+[DriodDeveloper 微信公众号文章，包含：个人android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐，TV开发](https://github.com/hejunlin2013/DriodDeveloper)
 [找出并解决你的内存泄露](http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html)
 
 [阿里巴巴Java开发手册](http://deadlion.cn/2017/02/05/Alibaba-Java-Code-Style.html)
