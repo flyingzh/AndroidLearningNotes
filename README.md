@@ -2,7 +2,7 @@
 
 android相關知識點記錄
 
-[stormzhang整理的Android开发资源](stormzhang.com/android/2014/06/05/android-awesome-resources/)
+[stormzhang整理的Android开发资源](http://stormzhang.com/android/2014/06/05/android-awesome-resources/)
 
 [Android使用Gradle构建实用的 Gradle 脚本](https://www.reddit.com/r/androiddev/comments/3ig3gm/show_us_your_gradle_tasks/)
 
